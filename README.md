@@ -2,7 +2,7 @@
 In-Browser YouTube Video downloader! No backend. Only requires CORS Policy disabled in browser(guide included).
 
 # Demo
-You can see the demo [here](mrcheateugene.github.io/web-ytdl/index.html)
+You can see the demo [here](https://mrcheateugene.github.io/web-ytdl/index.html)
 
 # How it works
 
